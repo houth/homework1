@@ -1,0 +1,194 @@
+body{
+	margin: 0px;
+	background-image:url(http://www.zingerbug.com/marb4.gif)
+	
+}
+
+.top{
+	background-color: white;
+	border-bottom:2.5px solid lightgrey;
+	background-color: white;
+	color: white;
+    display: inline-block;
+    width: 100%;
+    height: 82px;
+    
+}
+
+h1{ 
+	background-color: #4aaaa5;
+	color: white;
+	padding:23px;
+	margin-top: 0px;
+	float: left;
+  margin-left: 140px;
+  display: inline-block;
+  font-family:'Georgia', Times, "Times New Roman",serif;
+    
+}
+ .navigation
+ {
+    float: left;
+    margin-left: 600px;
+    margin-top: 25px;
+    font-size: 20px;
+    width: 270px;
+    
+    
+    
+}
+
+li {
+display: inline;
+margin-right: 10px;
+letter-spacing: 0px;
+font-family:Times;
+color: grey;
+
+
+
+}
+
+hr
+{
+  display:inline;
+  margin-right: 15px;
+
+}
+
+.photo_box
+{
+  color: #4aaaa5;
+  margin-right: 300px;
+  margin-top: 120px;
+  border: 1px solid lightgrey;
+  margin-left: 140px;
+  height: 900px;
+  width: 560px;
+  margin-bottom: 300px;
+  background-color: white;
+
+
+
+}
+
+h2 
+{
+  margin-left: 30px;
+  font-size: 30px;
+  border-bottom:2.5px solid lightgrey;
+  margin-right: 30px;
+  padding-bottom: 15px;
+  font-family: Georgia;
+
+
+}
+
+.Ipad
+  {
+  	margin-top: -1100px;
+  	margin-left: 170px;
+
+  }
+
+.Game 
+   { 
+     float: right;
+     margin-right: 900px;
+     margin-top: -200px;
+
+    }
+
+ .ear_plug
+ { 
+  margin-left: 170px;
+
+  }
+ 
+ .The_Phone
+ {
+  margin-left: 450px;
+  margin-top: -150px;
+
+ }
+
+ .The_TV
+ {
+ 	margin-left: 170px;
+ 	margin-top: 30px;
+ }
+
+ .Git_image
+{
+ height: 75px;
+ width: 75px;
+ margin-left: 30px;
+}
+
+.Link_image
+{
+  height: 75px;
+  width: 75px;
+  margin-left:3px;
+}
+
+.flow_image 
+{
+  height: 75px;
+  width: 75px;
+  margin-left:3px;
+}
+
+.site-footer
+{
+  position: absolute;
+  right: 0;
+  bottom:-562px;
+  left: 0;
+  padding: 2rem;
+  background-color: #666666;
+  text-align: center;
+  color: white;
+
+}
+
+.top-footer
+{
+  position: absolute;
+  right: 0;
+  bottom: -562px;
+  left: 0;
+  margin-bottom: 5rem;
+  padding: 3px;
+  background-color: #4aaaa5;
+  text-align: center;
+  color: white;
+
+}
+h3
+ { 
+   margin-left: 20px;
+   color: #20B2AA;
+   font-family: Georgia;
+   border-bottom:1px solid lightgrey;
+   margin-right: 20px;
+   padding: 10px;
+   text-align: center;
+   font-size: 23px;
+
+
+
+  }
+
+  .buttons 
+{ 
+    border: 1px solid lightgrey;
+    margin-left: 750px;
+    height: 210px;
+    width: 300px;
+    margin-top: -655px;
+    background-color: white;
+
+
+
+}
